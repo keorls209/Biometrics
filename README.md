@@ -82,4 +82,8 @@ python main.py
 ---
 
 ## 👥 Authors
-- **Team 4** - Biometrics Course
+**Team 4** - Biometrics Course
+- Salma Osama Mohamed Nassar
+- Sara Abdallah Soliman
+- Makarious Magdy Azmy
+- Kerolos Ayman Ebrahim
